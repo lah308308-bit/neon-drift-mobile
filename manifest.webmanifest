@@ -1,0 +1,35 @@
+{
+  "name": "NEON DRIFT MOBILE // 霓虹突围手游版",
+  "short_name": "霓虹突围",
+  "description": "横屏触控 360° 飞行射击手游：豪华战机对决双巨型 Boss。",
+  "lang": "zh-CN",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape-primary",
+  "background_color": "#02050d",
+  "theme_color": "#030713",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
