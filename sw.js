@@ -1,4 +1,4 @@
-const CACHE = 'neon-drift-mobile-v3';
+const CACHE = 'neon-drift-mobile-v4';
 const SHELL = [
   './',
   './index.html',
